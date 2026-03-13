@@ -1,0 +1,13 @@
+# Environment files
+.env
+.env.*
+!.env.example
+!.env.template
+
+# Markdown files
+*.md
+
+# Node/Python common ignores
+node_modules/
+__pycache__/
+*.pyc
